@@ -1,4 +1,3 @@
-def "hello world"
+greeting = "hello world"
 
-puts hello_world
-end
+greeting
